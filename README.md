@@ -1,0 +1,3 @@
+
+I’m a dedicated professional transitioning into the world of Data Science and Artificial Intelligence. With over a decade of experience in logistics and operations, I’ve built strong skills in process optimization, problem-solving, and teamwork. My background has taught me to think analytically, work diligently, and lead by example — qualities I now apply to the data-driven challenges I explore at WBS Coding School.
+I’m passionate about learning how data and AI can create smarter, more efficient systems and am currently seeking opportunities to apply my growing expertise through a Data Science or AI internship.
